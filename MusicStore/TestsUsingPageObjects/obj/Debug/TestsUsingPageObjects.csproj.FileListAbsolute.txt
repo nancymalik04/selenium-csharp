@@ -1,0 +1,43 @@
+C:\Projects\Chapter6\TestsUsingPageObjects\bin\Debug\TestsUsingPageObjects.dll
+C:\Projects\Chapter6\TestsUsingPageObjects\bin\Debug\TestsUsingPageObjects.pdb
+C:\Projects\Chapter6\TestsUsingPageObjects\bin\Debug\nunit.framework.dll
+C:\Projects\Chapter6\TestsUsingPageObjects\bin\Debug\PageObjects.dll
+C:\Projects\Chapter6\TestsUsingPageObjects\bin\Debug\WebDriver.dll
+C:\Projects\Chapter6\TestsUsingPageObjects\bin\Debug\WebDriver.Support.dll
+C:\Projects\Chapter6\TestsUsingPageObjects\bin\Debug\PageObjects.pdb
+C:\Projects\Chapter6\TestsUsingPageObjects\bin\Debug\nunit.framework.xml
+C:\Projects\Chapter6\TestsUsingPageObjects\bin\Debug\WebDriver.pdb
+C:\Projects\Chapter6\TestsUsingPageObjects\bin\Debug\WebDriver.xml
+C:\Projects\Chapter6\TestsUsingPageObjects\bin\Debug\WebDriver.Support.pdb
+C:\Projects\Chapter6\TestsUsingPageObjects\bin\Debug\WebDriver.Support.xml
+C:\Projects\Chapter6\TestsUsingPageObjects\obj\Debug\TestsUsingPageObjects.csprojResolveAssemblyReference.cache
+C:\Projects\Chapter6\TestsUsingPageObjects\obj\Debug\TestsUsingPageObjects.dll
+C:\Projects\Chapter6\TestsUsingPageObjects\obj\Debug\TestsUsingPageObjects.pdb
+C:\Projects\Chapter8\TestsUsingPageObjects\bin\Debug\TestsUsingPageObjects.dll
+C:\Projects\Chapter8\TestsUsingPageObjects\bin\Debug\TestsUsingPageObjects.pdb
+C:\Projects\Chapter8\TestsUsingPageObjects\bin\Debug\nunit.framework.dll
+C:\Projects\Chapter8\TestsUsingPageObjects\bin\Debug\PageObjects.dll
+C:\Projects\Chapter8\TestsUsingPageObjects\bin\Debug\WebDriver.dll
+C:\Projects\Chapter8\TestsUsingPageObjects\bin\Debug\WebDriver.Support.dll
+C:\Projects\Chapter8\TestsUsingPageObjects\bin\Debug\PageObjects.pdb
+C:\Projects\Chapter8\TestsUsingPageObjects\bin\Debug\nunit.framework.xml
+C:\Projects\Chapter8\TestsUsingPageObjects\bin\Debug\WebDriver.pdb
+C:\Projects\Chapter8\TestsUsingPageObjects\bin\Debug\WebDriver.xml
+C:\Projects\Chapter8\TestsUsingPageObjects\bin\Debug\WebDriver.Support.pdb
+C:\Projects\Chapter8\TestsUsingPageObjects\bin\Debug\WebDriver.Support.xml
+C:\Projects\Chapter8\TestsUsingPageObjects\obj\Debug\TestsUsingPageObjects.csprojResolveAssemblyReference.cache
+C:\Projects\Chapter8\TestsUsingPageObjects\obj\Debug\TestsUsingPageObjects.dll
+C:\Projects\Chapter8\TestsUsingPageObjects\obj\Debug\TestsUsingPageObjects.pdb
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\TestsUsingPageObjects\bin\Debug\TestsUsingPageObjects.dll
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\TestsUsingPageObjects\bin\Debug\TestsUsingPageObjects.pdb
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\TestsUsingPageObjects\bin\Debug\PageObjects.dll
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\TestsUsingPageObjects\bin\Debug\PageObjects.pdb
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\TestsUsingPageObjects\bin\Debug\nunit.framework.xml
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\TestsUsingPageObjects\bin\Debug\WebDriver.xml
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\TestsUsingPageObjects\obj\Debug\TestsUsingPageObjects.csprojResolveAssemblyReference.cache
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\TestsUsingPageObjects\obj\Debug\TestsUsingPageObjects.dll
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\TestsUsingPageObjects\obj\Debug\TestsUsingPageObjects.pdb
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\TestsUsingPageObjects\bin\Debug\TestsUsingPageObjects.dll.config
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\TestsUsingPageObjects\bin\Debug\nunit.framework.dll
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\TestsUsingPageObjects\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\TestsUsingPageObjects\bin\Debug\WebDriver.dll

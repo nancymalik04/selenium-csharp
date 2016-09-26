@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageObjects", "PageObjects\PageObjects.csproj", "{76252459-B488-46CF-93BD-06C900CB9808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsUsingPageObjects", "TestsUsingPageObjects\TestsUsingPageObjects.csproj", "{9D3BFC90-0598-43D2-9A49-AEDC9E700ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76252459-B488-46CF-93BD-06C900CB9808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76252459-B488-46CF-93BD-06C900CB9808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76252459-B488-46CF-93BD-06C900CB9808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76252459-B488-46CF-93BD-06C900CB9808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D3BFC90-0598-43D2-9A49-AEDC9E700ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D3BFC90-0598-43D2-9A49-AEDC9E700ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D3BFC90-0598-43D2-9A49-AEDC9E700ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D3BFC90-0598-43D2-9A49-AEDC9E700ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+C:\Projects\Chapter6\PageObjects\bin\Debug\PageObjects.dll
+C:\Projects\Chapter6\PageObjects\bin\Debug\PageObjects.pdb
+C:\Projects\Chapter6\PageObjects\bin\Debug\WebDriver.dll
+C:\Projects\Chapter6\PageObjects\bin\Debug\WebDriver.Support.dll
+C:\Projects\Chapter6\PageObjects\bin\Debug\WebDriver.pdb
+C:\Projects\Chapter6\PageObjects\bin\Debug\WebDriver.xml
+C:\Projects\Chapter6\PageObjects\bin\Debug\WebDriver.Support.pdb
+C:\Projects\Chapter6\PageObjects\bin\Debug\WebDriver.Support.xml
+C:\Projects\Chapter6\PageObjects\obj\Debug\PageObjects.csprojResolveAssemblyReference.cache
+C:\Projects\Chapter6\PageObjects\obj\Debug\PageObjects.dll
+C:\Projects\Chapter6\PageObjects\obj\Debug\PageObjects.pdb
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\PageObjects\bin\Debug\PageObjects.dll
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\PageObjects\bin\Debug\PageObjects.pdb
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\PageObjects\obj\Debug\PageObjects.dll
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\PageObjects\obj\Debug\PageObjects.pdb
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\PageObjects\bin\Debug\PageObjects.dll.config
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\PageObjects\bin\Debug\nunit.framework.dll
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\PageObjects\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\PageObjects\bin\Debug\nunit.framework.xml
+C:\Users\malikn\Desktop\Selenium Exercises\Selenium C#\Chapter8_Answer\Chapter8\PageObjects\obj\Debug\PageObjects.csprojResolveAssemblyReference.cache
