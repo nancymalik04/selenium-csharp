@@ -3,13 +3,13 @@
 	I want to be able to login
 	So that I can have access to my account
 
-@Run
+@Live
 Scenario: Login User Successfully
 	Given I am on Login Page
 	When I enter my username 'uesrname' and password 'test123'
 	Then I see a Welcome message 'username'  
 
-@Run
+@Live
 Scenario: Login User Unsuccessfully
 	Given I am on Login Page
 	When I enter my username 'uesrname' and password 'password123'

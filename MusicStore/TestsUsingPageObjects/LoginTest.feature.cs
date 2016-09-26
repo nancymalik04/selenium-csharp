@@ -66,11 +66,11 @@ namespace TestsUsingPageObjects
         
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Login User Successfully")]
-        [NUnit.Framework.CategoryAttribute("Run")]
+        [NUnit.Framework.CategoryAttribute("Live")]
         public virtual void LoginUserSuccessfully()
         {
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Login User Successfully", new string[] {
-                        "Run"});
+                        "Live"});
 #line 7
 this.ScenarioSetup(scenarioInfo);
 #line 8
@@ -85,11 +85,11 @@ this.ScenarioSetup(scenarioInfo);
         
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Login User Unsuccessfully")]
-        [NUnit.Framework.CategoryAttribute("Run")]
+        [NUnit.Framework.CategoryAttribute("Live")]
         public virtual void LoginUserUnsuccessfully()
         {
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Login User Unsuccessfully", new string[] {
-                        "Run"});
+                        "Live"});
 #line 13
 this.ScenarioSetup(scenarioInfo);
 #line 14
